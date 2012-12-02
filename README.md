@@ -1,3 +1,8 @@
+## Fork additions
+
+Lambda accepts already compiled text as the first argument (and the raw text as the second),
+if its result is wrapped in an array then it's not compiled again.
+
 ## Hogan.js - A mustache compiler. [![Build Status](https://secure.travis-ci.org/twitter/hogan.js.png)](http://travis-ci.org/twitter/hogan.js)
 
 [Hogan.js](http://twitter.github.com/hogan.js/) is a compiler for the
